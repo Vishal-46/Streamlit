@@ -34,8 +34,4 @@ Here are some of the most important Streamlit concepts I've encountered so far:
 | `st.slider()` | Creates an interactive slider widget.           |
 | `st.button()` | Adds a button to your Streamlit app.           |
 
-## 👨‍💻 Author
-
-[Your Name]
-
 Happy Streamlit-ing! 🎈

@@ -16,7 +16,7 @@ def greet(name):
     print("Welcome", name)
 """
 st.code(code_ex, language="python")
-st.image(os.path.join(os.getcwd(),"static","lz.jpg"))
+st.image(os.path.join(os.getcwd(),"static","lzi.jpg"))
 st.divider()
 st.title("Streamlit Interface")
 
